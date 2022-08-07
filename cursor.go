@@ -1,4 +1,4 @@
-package cursor
+package hqcursor
 
 import (
 	"encoding/base64"
